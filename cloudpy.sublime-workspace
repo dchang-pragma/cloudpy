@@ -23,6 +23,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "mysql-tutorial.py",
+			"settings":
+			{
+				"buffer_size": 1232,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "py_config.py",
+			"settings":
+			{
+				"buffer_size": 837,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -132,11 +148,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/bunmaster/g/0coding/cloudweb",
-		"/Users/bunmaster/g/0coding/cloudweb/sql"
+		"/Users/bunmaster/g/0coding/cloudpy"
 	],
 	"file_history":
 	[
+		"/Users/bunmaster/g/0coding/cloudpy/.gitignore",
+		"/Users/bunmaster/g/0coding/cloudpy/config.ini",
+		"/Users/bunmaster/g/0coding/cloudpy/README.md",
 		"/Users/bunmaster/g/0coding/cloudweb/Readme.md",
 		"/Users/bunmaster/g/0coding/cloudweb/cloudweb.sublime-project",
 		"/Users/bunmaster/g/0coding/cloudweb/app2.py",
@@ -164,6 +182,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"py"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -181,8 +200,69 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "mysql-tutorial.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1232,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "py_config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -230,7 +310,7 @@
 		"height": 114.0
 	},
 	"pinned_build_system": "Packages/User/python3.sublime-build",
-	"project": "cloudweb.sublime-project",
+	"project": "cloudpy.sublime-project",
 	"replace":
 	{
 		"height": 46.0
