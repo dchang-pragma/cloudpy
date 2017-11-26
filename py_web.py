@@ -1,5 +1,6 @@
 from flask import Flask, render_template, json, request
 from flaskext.mysql import MySQL
+#import pymysql # pymysql is another alternative
 from werkzeug import generate_password_hash, check_password_hash
 from py_config import read_db_config
 
@@ -73,5 +74,6 @@ def signUp():
 
 
 
-if __name__ == "__main__": # check if the executed file is the main program and run the app
-	app.run()
+if __name__ == "__main__":
+    #app.run(host='0.0.0.0')
+    app.run(port=5000)
