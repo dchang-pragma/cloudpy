@@ -9,10 +9,6 @@ def connect():
     app = Flask(__name__)
     mysql = MySQL()
     mysql.init_app(app)
-    # app.config['MYSQL_DATABASE_USER'] = 'bunmaster'
-    # app.config['MYSQL_DATABASE_PASSWORD'] = 'michelle'
-    # app.config['MYSQL_DATABASE_DB'] = 'BucketList'
-    # app.config['MYSQL_DATABASE_HOST'] = 'localhost'
     
     db_config = read_db_config(filename='config.ini', section='flask-mysql-pyweb')
     #print (db_config)
