@@ -26,7 +26,7 @@ from py_config import read_db_config
 def connect():
     """ Connect to MySQL database """
  
-    db_config = read_db_config()
+    db_config = read_db_config(filename='config.ini', section='mysql')
  
     try:
         print('Connecting to MySQL database...')

@@ -1,19 +1,24 @@
 from flask import Flask, render_template, json, request
 from flaskext.mysql import MySQL
 from werkzeug import generate_password_hash, check_password_hash
+from py_config import read_db_config
 
 
 app = Flask(__name__)
 mysql = MySQL()
  
 # MySQL configurations
-app.config['MYSQL_DATABASE_USER'] = 'bunmaster'
-app.config['MYSQL_DATABASE_PASSWORD'] = 'michelle'
-app.config['MYSQL_DATABASE_DB'] = 'BucketList'
-app.config['MYSQL_DATABASE_HOST'] = 'localhost'
+db_config = read_db_config(filename='config.ini', section='flask-mysql-pyweb')
+#print (db_config)
+#conn = mysql.connect(**db_config)
+app.config['MYSQL_DATABASE_USER'] = db_config['user']
+app.config['MYSQL_DATABASE_PASSWORD'] = db_config['password']
+app.config['MYSQL_DATABASE_DB'] = db_config['database']
+app.config['MYSQL_DATABASE_HOST'] = db_config['host']
+
 mysql.init_app(app)
-conn = mysql.connect()
-cursor = conn.cursor()
+# conn = mysql.connect()
+# cursor = conn.cursor()
 
 @app.route("/")
 def main():
