@@ -78,6 +78,8 @@ def query_with_fetchall():
         cursor = conn.cursor()
         cursor.execute("SELECT * FROM books")
         rows = cursor.fetchall()
+        print(rows) # return list of tuples
+        # print(rows[6][2])
  
         print('Total Row(s):', cursor.rowcount)
         for row in rows:
@@ -98,6 +100,9 @@ def iter_row(cursor, size=10):
         for row in rows:
             yield row
 
+def do_nothing():
+    pass
+    
 def query_with_fetchmany():
     try:
         dbconfig = read_db_config()
@@ -117,7 +122,7 @@ def query_with_fetchmany():
         conn.close() 
  
 if __name__ == '__main__':
-    query_with_fetchmany()
+    query_with_fetchall()
 
  
 # if __name__ == '__main__':

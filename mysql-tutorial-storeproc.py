@@ -39,4 +39,5 @@ def call_find_by_isbn():
         conn.close()
  
 if __name__ == '__main__':
-    call_find_by_isbn()
+    #call_find_by_isbn()
+    call_find_all_sp()

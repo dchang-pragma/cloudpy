@@ -9,7 +9,7 @@ app = Flask(__name__)
 mysql = MySQL()
  
 # MySQL configurations
-db_config = read_db_config(filename='config.ini', section='flask-mysql-pyweb')
+db_config = read_db_config(filename='config.ini', section='flask-mysql-cloudpy')
 #print (db_config)
 #conn = mysql.connect(**db_config)
 app.config['MYSQL_DATABASE_USER'] = db_config['user']
@@ -76,4 +76,4 @@ def signUp():
 
 if __name__ == "__main__":
     #app.run(host='0.0.0.0')
-    app.run(port=5000)
+    app.run(debug=True, port=5000)
