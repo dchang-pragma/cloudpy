@@ -39,3 +39,6 @@ some data and numbers
 inspiring and guiding
 
 internal references
+
+
+tensorflow installation
