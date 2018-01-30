@@ -1,0 +1,41 @@
+5 1-on-1 interview
+
+1. system design
+
+strategize and how you solve the problem
+identify bottlenecks
+
+
+2. coding algorithm
+
+could be vague question - ask clarifying question and get more details
+and restate the question back to them
+approach
+testing of code quality
+test strategy
+system level testing
+distributed system
+methodology
+proactive
+test coverage is important
+
+optimal than fast
+
+
+what out for waht can go wrong in your code
+
+3. people management and problem solving
+4. engineering technical leadership
+
+resolve conflict
+under performer
+examples and stories
+
+hypothetical and past experience
+
+some data and numbers 
+
+
+inspiring and guiding
+
+internal references

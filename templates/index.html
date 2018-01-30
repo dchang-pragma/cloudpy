@@ -6,27 +6,28 @@
  
  
     <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
- 
     <link href="https://getbootstrap.com/docs/3.3/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+    <link href="/static/style.css" rel="stylesheet">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='bb8-head100.png') }}">
+    <script src="/static/js/jquery-3.2.1.js"></script>
+    <script src="/static/js/signup.js"></script>
+
  
  
 </head>
  
 <body>
+<h3 class="text-muted">Python Flask App</h3>
+
+
+<div class="topnav" id="myTopnav">
+  <a role="presentation" class="active" href="/">Home</a>
+  <a role="presentation" href="showSignUp">Sign up</a>
+  <a role="presentation" href="Login">Log in</a>
+</div>
  
     <div class="container">
         <div class="header">
-            <nav>
-                <ul class="nav nav-pills pull-right">
-                    <li role="presentation" class="active"><a href="#">Home</a>
-                    </li>
-                    <li role="presentation"><a href="#">Sign In</a>
-                    </li>
-                    <li role="presentation"><a href="showSignUp">Sign Up</a>
-                    </li>
-                </ul>
-            </nav>
-            <h3 class="text-muted">Python Flask App</h3>
         </div>
  
         <div class="jumbotron">
@@ -61,7 +62,7 @@
         </div>
  
         <footer class="footer">
-            <p>&copy; Company 2015</p>
+            <p>&copy; steamedbun.xyz 2018</p>
         </footer>
  
     </div>

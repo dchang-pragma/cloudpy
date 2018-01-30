@@ -94,16 +94,16 @@ END
 
 # store proc #3 ###########################
 
-USE `BucketList`;
-DROP procedure IF EXISTS `sp_GetAllItems`;
+USE `Diane`;
+DROP procedure IF EXISTS `sp_GetPotentialAttacks`;
 
 DELIMITER $$
-USE `BucketList`$$
-CREATE PROCEDURE `sp_GetAllItems` (
-in p_email varchar(255)
+USE `Diane`$$
+CREATE PROCEDURE `sp_GetPotentialAttacks` (
+in p_priority INT(2)
 )
 BEGIN
-    select item_id, item_name from tbl_item where user_email = p_email; 
+    select log_host, log_function from wp_itsec_log where log_priority = p_priority; 
 END$$
 
 DELIMITER ;

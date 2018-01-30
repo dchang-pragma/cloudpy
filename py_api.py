@@ -83,34 +83,6 @@ class AuthenticateUser(Resource):
             return {'error': str(e)}
 
 
-# class GetAllItems(Resource):
-#     def post(self):
-#         try: 
-#             # Parse the arguments
-#             parser = reqparse.RequestParser()
-#             parser.add_argument('id', type=str)
-#             args = parser.parse_args()
-
-#             _userId = args['id']
-
-#             conn = mysql.connect()
-#             cursor = conn.cursor()
-#             cursor.callproc('sp_GetAllItems',(_userId,))
-#             data = cursor.fetchall()
-
-#             items_list=[];
-#             for item in data:
-#                 i = {
-#                     'Id':item[0],
-#                     'Item':item[1]
-#                 }
-#                 items_list.append(i)
-
-#             return {'StatusCode':'200','Items':items_list}
-
-#         except Exception as e:
-#             return {'error': str(e)}
-
 class AddItem(Resource):
     def post(self):
         try: 
@@ -136,10 +108,40 @@ class AddItem(Resource):
         except Exception as e:
             return {'error': str(e)}
 
+
+class GetAllItems(Resource):
+    def post(self):
+        try: 
+            # Parse the arguments
+            parser = reqparse.RequestParser()
+            parser.add_argument('email', type=str)
+            args = parser.parse_args()
+
+            _email = args['email']
+
+            conn = mysql.connect()
+            cursor = conn.cursor()
+            cursor.callproc('sp_GetAllItems',(_email,))
+            data = cursor.fetchall()
+
+            items_list=[];
+            for item in data:
+                i = {
+                    'item_id':item[0],
+                    'item_name':item[1]
+                }
+                items_list.append(i)
+
+            return {'StatusCode':'200','Items':items_list}
+
+        except Exception as e:
+            return {'error': str(e)}
+
+
 api.add_resource(CreateUser, '/CreateUser')
 api.add_resource(AuthenticateUser, '/AuthenticateUser')
-# api.add_resource(AddItem, '/AddItem')
-# api.add_resource(GetAllItems, '/GetAllItems')
+api.add_resource(AddItem, '/AddItem')
+api.add_resource(GetAllItems, '/GetAllItems')
 
 if __name__ == '__main__':
     app.run(debug=True, port=5002)

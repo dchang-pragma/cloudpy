@@ -1,4 +1,5 @@
 from flask import Flask, render_template, json, request
+import flask
 from flaskext.mysql import MySQL
 #import pymysql # pymysql is another alternative
 from werkzeug import generate_password_hash, check_password_hash
@@ -23,7 +24,8 @@ mysql.init_app(app)
 
 @app.route("/")
 def main():
-	return render_template('index.html')
+    print(flask.__version__)
+    return render_template('index.html')
 	
 @app.route('/showSignUp')
 def showSignUp():
@@ -72,6 +74,17 @@ def signUp():
         cursor.close()
         conn.close()
 
+# @app.route("/Authenticate")
+# def Authenticate():
+#     username = request.args.get('UserName')
+#     password = request.args.get('Password')
+#     cursor = mysql.connect().cursor()
+#     cursor.execute("SELECT * from User where Username='" + username + "' and Password='" + password + "'")
+#     data = cursor.fetchone()
+#     if data is None:
+#      return "Username or Password is wrong"
+#     else:
+#      return "Logged in successfully"
 
 
 if __name__ == "__main__":
