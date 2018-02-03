@@ -42,3 +42,17 @@ internal references
 
 
 tensorflow installation
+
+
+System Design Basics
+Load Balancing
+Caching
+Sharding or Data Partitioning
+Indexes
+Proxies
+Queues
+Redundancy and Replication
+SQL vs. NoSQL
+CAP Theorem
+Consistent Hashing
+Long-Polling vs WebSockets vs Server-Sent Events (*New*)
