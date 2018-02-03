@@ -16,14 +16,15 @@ node1 = [0,0,[0,1,0,0,0,0]]
 particle = [0, 0, 'direction']
 
 
-node0 = Node()
+node0 = Node(0,0,R)
 
 class Node:
 	def __init__(self):
 		self.x = x
 		self.y = y
 	def node_directionR():
-		return
+		if self.R == 'R'
+		return R
 
 
 
