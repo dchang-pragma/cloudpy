@@ -24,86 +24,47 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/bunmaster/Google Drive/0career/Google Files/google-notes.txt",
+			"file": "google-notes.txt",
 			"settings":
 			{
-				"buffer_size": 6279,
+				"buffer_size": 668,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "5 1-on-1 interview"
 			}
 		},
 		{
-			"file": "pockets/data_structure/py_linked_list.py",
+			"file": "Google/data_structure/map01.py",
 			"settings":
 			{
-				"buffer_size": 2129,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Node:"
-			}
-		},
-		{
-			"file": "pockets/practice/daily_practice0221.py",
-			"settings":
-			{
-				"buffer_size": 948,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "class Node:"
-			}
-		},
-		{
-			"file": "pockets/practice/daily_practice0222.py",
-			"settings":
-			{
-				"buffer_size": 43,
+				"buffer_size": 1675,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pockets/cheat_sheet/py_http.py",
+			"file": "list-comprehension.py",
 			"settings":
 			{
-				"buffer_size": 1234,
+				"buffer_size": 179,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pockets/algorithm/dfs.py",
+			"file": "pockets/datastructure4.py",
 			"settings":
 			{
-				"buffer_size": 513,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "def dfs(graph, start):"
-			}
-		},
-		{
-			"file": "pockets/algorithm/algo1.py",
-			"settings":
-			{
-				"buffer_size": 607,
-				"line_ending": "Unix",
-				"name": "class Node:"
-			}
-		},
-		{
-			"file": "pockets/algorithm/bfs.py",
-			"settings":
-			{
-				"buffer_size": 513,
+				"buffer_size": 638,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pockets/data_structure/py_graph.py",
+			"file": "pockets/class_rabbit.py",
 			"settings":
 			{
-				"buffer_size": 1310,
+				"buffer_size": 2172,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}

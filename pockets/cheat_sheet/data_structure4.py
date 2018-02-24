@@ -1,8 +1,13 @@
 list1 = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I',] #mutable
 list2 = [None]*8
 dictionary1 = {1: "one", 2: "two", 3: "three"} #unordered
-tuple1 = (1, 2, 3) #immutable
+#tuple1 = (1, 2, 3) #immutable
+tuple1 = 'Hi',
 set1 = {1, 2, 3} #unordered; not supporting indexing; never have duplicate elements; mutable; see frozenset()
+string = '123' #immutable 
+
+raw = r'this\t\n and that'
+print (raw)     ## this\t\n and that
 
 
 

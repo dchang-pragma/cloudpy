@@ -22,9 +22,17 @@ class Node:
 	def __init__(self):
 		self.x = x
 		self.y = y
-	def node_directionR():
-		if self.R == 'R'
-		return R
+	def direction_right():
+		if self.R == 'R':
+			return True
+		else:
+			return False
+	def direction_left():
+		if self.L == 'L':
+			return True
+		else:
+			return False
+
 
 
 

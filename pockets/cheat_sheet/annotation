@@ -1,0 +1,11 @@
+without annotation
+
+Traceback (most recent call last):
+  File "/Users/bunmaster/Google Drive/0coding/cloudpy/Google/coding_exercise4.py", line 7, in <module>
+    print(search_for(123, 'abcdefghij'))
+  File "/Users/bunmaster/Google Drive/0coding/cloudpy/Google/coding_exercise4.py", line 2, in search_for
+    offset = haystack.find(needle)
+TypeError: must be str, not int
+>>> 
+
+
