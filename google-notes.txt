@@ -56,3 +56,51 @@ SQL vs. NoSQL
 CAP Theorem
 Consistent Hashing
 Long-Polling vs WebSockets vs Server-Sent Events (*New*)
+
+
+
+Job description
+
+High-level job description
+Life on the web moves fast, the cloud moves even faster, and our millions of users around the world expect nothing less from us.  Google is passionate about rapidly developing and releasing high quality software, and must do so in order to grow in this rapidly evolving product space.
+
+As an Engineering Productivity Manager, your mission is to build tools and infrastructure to increase our software developers' speed and productivity, resulting in faster release of higher quality products. You play a crucial part in Google's success by partnering with the Cloud, Network and Storage product teams in New York to increase their software development velocity. Your tools and test frameworks are used by Google software engineers to thoroughly test their code to the highest standards, and release code into production with full confidence.
+
+
+With your extensive technical background you manage a team of engineers, help them grow their careers, and juggle multiple (potentially conflicting) project priorities, deadlines and deliverables. You coordinate cross-functional projects areas across teams and products.
+
+
+
+The engineering productivity teams support multiple large-scale storage and data analytics services, including Spanner, Google Cloud Storage / Blobstore, Cloud SQL, Logs and others.  These are large-scale systems with high throughput and low latency targets.  To achieve and maintain those targets at Google scale, we need to build innovative tools to understand and explore complex distributed systems.
+
+
+
+As an Engineering Productivity Manager, you will help to deliver the next large improvements in release velocity, automated test coverage, and developer tooling, with a keen focus on testability and productivity.  Through your leadership and professional expertise, you will need to recruit and manage a team or teams, plan project goals and lead the overall strategy for your group.
+
+Job description 2
+
+A line of code can be many things - an amazing feature, a beautiful UI, a transformative algorithm. The faster this line of code reaches millions of users, the sooner it impacts their lives. As a Software Engineer Manager, Tools and Infrastructure, you will be at the heart of Google’s engineering process building software that empowers engineering teams to develop and deliver high quality products quickly. We are focused on solving the hardest, most interesting challenges of developing software at scale without sacrificing stability, quality, velocity or code health.
+
+We ensure Google's success by partnering with engineering teams and developing scalable tools and infrastructure that help engineers develop, test, debug and release software quickly. We impact thousands of Googlers and billions of users by increasing the pace of product development and ensuring our products are thoroughly tested. We are champions for code health, testability, maintainability and best practices for development and testing.
+
+Having access to all of Google's platforms and vast compute resources provides a unique opportunity to grow as an leader. We typically work in small, nimble teams that collaborate on common problems across products and focus areas. As a result, the exposure to this broad set of problems provides diverse technical challenges as well as accelerated career growth as a Manager.
+
+Google is and always will be an engineering company. We hire people with a broad set of technical skills who are ready to take on some of technology's greatest challenges and make an impact on millions, if not billions, of users. At Google, engineers not only revolutionize search, they routinely work on massive scalability and storage solutions, large-scale applications and entirely new platforms for developers around the world. From AdWords to Chrome, Android to YouTube, Social to Local, Google engineers are changing the world one technological achievement after another.
+
+Responsibilities
+Lead a team of Tools, Infrastructure, Test and Release Engineers focused on improving developer velocity, scalability and testability of the Google’s diverse project areas and platforms.
+Provide technical expertise throughout the product life cycle including design, implementation and delivery of scalable build/test/release infrastructure.
+Create the next generation developer tooling and infrastructure for Google, focusing on productivity, testing and release.
+Define the team strategy and roadmap for the adoption of developer tools and test infrastructure for one or more products.
+Collaborate with leadership and key stakeholders on a regular basis.
+Qualifications
+Minimum qualifications:
+Bachelor's degree in Computer Science or related field, or equivalent practical experience.
+3 years of hands-on technical leadership and people management experience.
+Programming experience in one of the following: Java, C++ or Python.
+Experience with developing automated internal frameworks, increasing developer and release velocity, improving code health and building developer tools.
+
+Preferred qualifications:
+MS or PhD in Computer Science or related degree.
+10 years of relevant industry experience, with 5 years of hands-on technical leadership and people management experience.
+Experience in the design, implementation and delivery of scalable build/test/release infrastructure.

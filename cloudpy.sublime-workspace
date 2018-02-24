@@ -24,47 +24,86 @@
 	"buffers":
 	[
 		{
-			"file": "google-notes.txt",
+			"file": "/Users/bunmaster/Google Drive/0career/Google Files/google-notes.txt",
 			"settings":
 			{
-				"buffer_size": 668,
+				"buffer_size": 6279,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "5 1-on-1 interview"
 			}
 		},
 		{
-			"file": "Google/data_structure/map01.py",
+			"file": "pockets/data_structure/py_linked_list.py",
 			"settings":
 			{
-				"buffer_size": 1675,
+				"buffer_size": 2129,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Node:"
+			}
+		},
+		{
+			"file": "pockets/practice/daily_practice0221.py",
+			"settings":
+			{
+				"buffer_size": 948,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "class Node:"
+			}
+		},
+		{
+			"file": "pockets/practice/daily_practice0222.py",
+			"settings":
+			{
+				"buffer_size": 43,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "list-comprehension.py",
+			"file": "pockets/cheat_sheet/py_http.py",
 			"settings":
 			{
-				"buffer_size": 179,
+				"buffer_size": 1234,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pockets/datastructure4.py",
+			"file": "pockets/algorithm/dfs.py",
 			"settings":
 			{
-				"buffer_size": 638,
+				"buffer_size": 513,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "def dfs(graph, start):"
+			}
+		},
+		{
+			"file": "pockets/algorithm/algo1.py",
+			"settings":
+			{
+				"buffer_size": 607,
+				"line_ending": "Unix",
+				"name": "class Node:"
+			}
+		},
+		{
+			"file": "pockets/algorithm/bfs.py",
+			"settings":
+			{
+				"buffer_size": 513,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pockets/class_rabbit.py",
+			"file": "pockets/data_structure/py_graph.py",
 			"settings":
 			{
-				"buffer_size": 2172,
+				"buffer_size": 1310,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -75,8 +114,16 @@
 			{
 				"buffer_size": 936,
 				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "def mergeSort(alist):"
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pockets/var_pointer_mem.py",
+			"settings":
+			{
+				"buffer_size": 780,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -85,8 +132,46 @@
 			{
 				"buffer_size": 1174,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pockets/algorithm/dij_adjacency_list.py",
+			"settings":
+			{
+				"buffer_size": 6199,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pockets/algorithm/dij_adjacency_matrix.py",
+			"settings":
+			{
+				"buffer_size": 2577,
+				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "def quickSort(alist):"
+				"name": "# A Python program for Dijkstra's shortest"
+			}
+		},
+		{
+			"file": "pockets/nx_graph.py",
+			"settings":
+			{
+				"buffer_size": 205,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "import networkx as nx"
+			}
+		},
+		{
+			"file": "pockets/data_structure/binary_tree.py",
+			"settings":
+			{
+				"buffer_size": 715,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "# Python program to introduce Binary Tree"
 			}
 		}
 	],
@@ -215,19 +300,89 @@
 	"expanded_folders":
 	[
 		"/Users/bunmaster/Google Drive/0coding/cloudpy",
-		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google",
-		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/data_structure",
-		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets"
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/cheat_sheet",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/data_structure"
 	],
 	"file_history":
 	[
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/data_structure/graph_AL_bfs.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/data_structure/graph_adjacency_list.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dij_adjacency_matrix.py",
+		"/Users/bunmaster/Downloads/tutorial.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/linked_list.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dfs-bfs.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/dfs-bfs.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/logpuzzle/solution/logpuzzle.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/logpuzzle/logpuzzle.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/open_file.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/babynames/babynames.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/babynames/babynames_final.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/babynames/solution/babynames.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/py_exception.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/read_file.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/py_util_guide.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/babynames/babynames_exercise.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/py_http.py",
+		"/Users/bunmaster/Google Drive/0Family/t-mobile",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/py_regular_expression",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/mimic.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/basic/solution/wordcount.py",
+		"/Users/bunmaster/Downloads/google-python-exercises/basic/alice.txt",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/naming_convention.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/basic/mimic.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/dict_practice.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/basic/wordcount.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/google-python-exercises/basic/list2.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/daily08.py",
+		"/Users/bunmaster/Downloads/google-python-exercises/basic/wordcount.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/datastructure4.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/sorting.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/daily09.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/file_codec.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/list_comprehensions.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/del_operator.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/small.txt",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/google-python-exercises/basic/list1.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/triangle_coordinate.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/daily05.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/daily06.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/daily07.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/daily04.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/daily03.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/google-python-exercises/basic/string2.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/google-python-exercises/basic/solution/string1.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/google-python-exercises/basic/string1.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/daily01.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/coding_exercise4.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/daily02.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/tensorflow/2-tensorflow-getting-started-m2-exercise-files/demos/House_Price_Prediction-with-anim.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/annotation",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/class_rabbit.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/tensorflow/2-tensorflow-getting-started-m2-exercise-files/demos/House_Price_Prediction.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/tensorflow/hello_tensor.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/map-dfs.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/map-Dijkstra.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/coding_exercise3.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/coding_exercise2.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/map-bfs2.py",
+		"/Users/bunmaster/Downloads/tensorflow-getting-started (1)/2-tensorflow-getting-started-m2-exercise-files/demos/House_Price_Prediction.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/map-word-ladder.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/wordladder.txt",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/map01.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/list-comprehension.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/sorting-quick.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/sorting-merge.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/map-word-ladder.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/data_structure/map01.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/bfs.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/binary_search.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/hash_table2.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/parse-tree.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/tree-traversal.py",
 		"/Users/bunmaster/Google Drive/0career/resume/resume-text",
 		"/Users/bunmaster/Library/Application Support/Sublime Text 3/Packages/User/Python36.sublime-build",
-		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/sorting.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/search.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/tutorial/class_rabbit.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/config.ini",
@@ -279,44 +434,7 @@
 		"/Users/bunmaster/Downloads/pypi-stat-1.3.2/pypi_get_stat.py",
 		"/Users/bunmaster/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
 		"/Users/bunmaster/g/0coding/cloudpy/py_web.py",
-		"/Users/bunmaster/g/0coding/cloudpy/py_aws.py",
-		"/Users/bunmaster/g/0coding/cloudpy/templates/index.html",
-		"/Users/bunmaster/g/0coding/cloudpy/templates/signup.html",
-		"/Users/bunmaster/g/0coding/python/app11/db.py",
-		"/Users/bunmaster/g/0coding/node/2ndnode-win/aws-s3-bucket-upload.js",
-		"/Users/bunmaster/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
-		"/Users/bunmaster/g/0coding/cloudpy/static/js/signup.js",
-		"/Users/bunmaster/g/0coding/cloudpy/static/signup.css",
-		"/Users/bunmaster/g/0coding/cloudpy/py_api.py",
-		"/Users/bunmaster/g/0coding/cloudpy/static/js/jquery-3.2.1.min.js",
-		"/Users/bunmaster/g/0coding/cloudpy/sql/sp_createUser.sql",
-		"/Users/bunmaster/g/0coding/cloudpy/sql/cloud_py.sql",
-		"/Users/bunmaster/g/0coding/cloudpy/sql/py_web_db.sql",
-		"/Users/bunmaster/g/0coding/cloudpy/sql/py_api_db.sql",
-		"/Users/bunmaster/g/0coding/RESTfulApiUsingPythonFlask/README.md",
-		"/Users/bunmaster/g/0coding/cloudpy/mysql-tutorial-storeproc.py",
-		"/Users/bunmaster/g/0coding/cloudpy/py_api_db.py",
-		"/Users/bunmaster/g/0coding/cloudpy/py_db_trial.py",
-		"/Users/bunmaster/g/0coding/cloudpy/py_web2.py",
-		"/Users/bunmaster/g/0coding/cloudpy/pyconfig.ini",
-		"/Users/bunmaster/g/0coding/cloudpy/aws.ini",
-		"/Users/bunmaster/g/0coding/cloudpy/mysql-tutorial-update.py",
-		"/Users/bunmaster/g/0coding/cloudpy/mysql-tutorial-insert.py",
-		"/Users/bunmaster/g/0coding/cloudpy/mysql-tutorial-delete.py",
-		"/Users/bunmaster/g/0coding/cloudpy/mysql-tutorial-blob.py",
-		"/Users/bunmaster/g/0coding/cloudpy/sql/mysql-tutorial-storeproc-2.sql",
-		"/Users/bunmaster/g/0coding/cloudpy/sql/python_mysql.sql",
-		"/Users/bunmaster/g/0coding/cloudpy/.gitignore",
-		"/Users/bunmaster/g/0coding/cloudweb/Readme.md",
-		"/Users/bunmaster/g/0coding/cloudweb/cloudweb.sublime-project",
-		"/Users/bunmaster/g/0coding/cloudweb/app2.py",
-		"/Users/bunmaster/g/0coding/cloudweb/app.py",
-		"/Users/bunmaster/g/0coding/cloudweb/py_config.py",
-		"/Users/bunmaster/g/0coding/cloudweb/.gitignore",
-		"/Users/bunmaster/g/0coding/cloudweb/mysql-tutorial.py",
-		"/Users/bunmaster/g/0coding/cloudweb/config.ini",
-		"/Users/bunmaster/g/0coding/cloudweb/config.py",
-		"/Users/bunmaster/Downloads/python_mysql.sql"
+		"/Users/bunmaster/g/0coding/cloudpy/py_aws.py"
 	],
 	"find":
 	{
@@ -334,6 +452,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"next",
+			"maxint",
+			"print",
+			">>> ",
+			"scan",
+			"sorted",
+			"sort",
+			"2004",
+			"sort",
+			"tf_price_pred",
+			"tc_price_pred",
+			"pred",
+			"graph",
 			"parti",
 			"passnum",
 			"setitem",
@@ -371,24 +502,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "google-notes.txt",
+					"file": "/Users/bunmaster/Google Drive/0career/Google Files/google-notes.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 668,
+						"buffer_size": 6279,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								478,
-								478
+								4298,
+								4298
 							]
 						],
 						"settings":
@@ -397,85 +528,128 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Google/data_structure/map01.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1675,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1315,
-								1315
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 347.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "list-comprehension.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 179,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								178,
-								178
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1429.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "pockets/datastructure4.py",
+					"buffer": 1,
+					"file": "pockets/data_structure/py_linked_list.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 638,
+						"buffer_size": 2129,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								638,
-								638
+								1725,
+								1725
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Node:",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 672.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pockets/practice/daily_practice0221.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								582,
+								582
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Node:",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pockets/practice/daily_practice0222.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pockets/cheat_sheet/py_http.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
 							]
 						],
 						"settings":
@@ -486,24 +660,84 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "pockets/class_rabbit.py",
+					"buffer": 5,
+					"file": "pockets/algorithm/dfs.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2172,
+						"buffer_size": 513,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								456,
-								456
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"auto_name": "def dfs(graph, start):",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pockets/algorithm/algo1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"auto_name": "class Node:",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "pockets/algorithm/bfs.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
 							]
 						],
 						"settings":
@@ -513,14 +747,43 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 206.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 8,
+					"file": "pockets/data_structure/py_graph.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								691,
+								691
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
 					"file": "sorting-merge.py",
 					"semi_transient": false,
 					"settings":
@@ -532,13 +795,12 @@
 						"selection":
 						[
 							[
-								232,
-								232
+								610,
+								610
 							]
 						],
 						"settings":
 						{
-							"auto_name": "def mergeSort(alist):",
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
@@ -547,11 +809,39 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 10,
+					"file": "pockets/var_pointer_mem.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								768,
+								768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
 					"file": "sorting-quick.py",
 					"semi_transient": false,
 					"settings":
@@ -563,13 +853,133 @@
 						"selection":
 						[
 							[
-								283,
-								283
+								344,
+								344
 							]
 						],
 						"settings":
 						{
-							"auto_name": "def quickSort(alist):",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 79.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "pockets/algorithm/dij_adjacency_list.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5455,
+								5458
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "pockets/algorithm/dij_adjacency_matrix.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								324
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# A Python program for Dijkstra's shortest",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 521.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "pockets/nx_graph.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								205
+							]
+						],
+						"settings":
+						{
+							"auto_name": "import networkx as nx",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "pockets/data_structure/binary_tree.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 715,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								715,
+								715
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Python program to introduce Binary Tree",
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -578,7 +988,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 14,
 					"type": "text"
 				}
 			]
@@ -617,7 +1027,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 253.0
+		"height": 183.0
 	},
 	"output.find_results":
 	{
@@ -627,11 +1037,11 @@
 	{
 		"height": 114.0
 	},
-	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
 	"project": "cloudpy.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -669,7 +1079,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 252.0,
+	"side_bar_width": 232.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
