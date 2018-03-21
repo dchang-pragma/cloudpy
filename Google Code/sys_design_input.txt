@@ -1,0 +1,56 @@
+
+Michelle Read
+
+Please design a URL shortening service like TinyURL. This service will provide short aliases redirecting to long URLs. 
+
+Similar services: bit.ly, goo.gl, 2020.fm etc.
+
+For example, if we shorten this page through TinyURL:
+
+https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904/
+
+The shortened URL is nearly one third (1/3) of the size of the actual URL.
+
+We would get:
+
+http://tinyurl.com/jlg8zpc
+
+Functional Requirements:
+
+1. Given a URL, our service should generate a shorter and unique alias of it.
+2. When users access a shorter URL, our service should redirect them to the original link.
+3. Users should optionally be able to pick a custom alias for their URL.
+4. Links will expire after a specific timespan automatically; users should also be able to specify expiration time.
+
+Non-Functional Requirements:
+
+1. The system should be highly available. This is required because if our service is down, all the URL redirections will start failing.
+2. URL redirection should happen in real-time with minimum latency.
+3. Shortened links should not be guessable (not predictable).
+
+
+Extended Requirements:
+
+1. Analytics, for example how many times a redirection happened?
+2. Our service should also be accessible through REST APIs by other services.
+
+
+Derek to ask clarifying questions.
+1. how many new URLs are generated per month
+2. how many URL redirections per month
+
+
+Michelle Read
+
+If we assume that 
+1. we would have 500M new URLs shortenings per month, 
+2. we can expect (100 * 500M => 50B) redirections during the same time. that being said: workload ratio of read versus write is 1 to 100
+3. 500 bytes per URL
+
+Derek to provide estimate
+
+load
+write request - incoming
+read request - outgoing
+storage need
+caching memory need

@@ -3,7 +3,7 @@ from py_config import read_db_config
 
  
 
-db_config = read_db_config(filename='config.ini', section='aws-work-lab')
+db_config = read_db_config(filename='config.ini', section='aws-bun-dchang')
 
 # credential example - http://boto3.readthedocs.io/en/latest/guide/configuration.html
 s3 = boto3.resource(

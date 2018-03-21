@@ -1,0 +1,69 @@
+graph = {'A': ['B', 'C', 'E'],
+         'B': ['A','D', 'E'],
+         'C': ['A', 'F', 'G'],
+         'D': ['B'],
+         'E': ['A', 'B','D'],
+         'F': ['C'],
+         'G': ['C']}
+
+def bfs_connected_component(graph, start):
+    explored = [] # keep tracked of explored node
+    queue = [start] # implement queue as list
+    while queue:
+        node = queue.pop(0)
+        if node not in explored:
+            explored.append(node)
+            neighbours = graph[node]
+            for neighbour in neighbours:
+                queue.append(neighbour)
+    return explored
+ 
+#print('bfs A', bfs_connected_component(graph,'A')) # returns ['A', 'B', 'C', 'E', 'D', 'F', 'G']
+
+def bfs_shortest_path(graph, start, goal):
+    explored = []
+    queue = [[start]]
+    if start == goal:
+        return "That was easy! Start = goal"
+    while queue:
+        path = queue.pop(0)
+
+        node = path[-1]
+        if node not in explored:
+            neighbours = graph[node]
+            for neighbour in neighbours:
+                new_path = list(path)
+                new_path.append(neighbour)
+                queue.append(new_path)
+                if neighbour == goal:
+                    return new_path
+            explored.append(node)
+    return "So sorry, but a connecting path doesn't exist :("
+ 
+print('shortest path between G and D is',bfs_shortest_path(graph, 'G', 'D'))  # returns ['G', 'C', 'A', 'B', 'D']
+
+
+
+
+
+
+
+#import collections
+
+
+# def breadth_first_search(graph, root): 
+#     visited, queue = set(), collections.deque([root])
+#     while queue: 
+#         vertex = queue.popleft()
+#         for neighbour in graph[vertex]: 
+#             if neighbour not in visited: 
+#                 visited.add(neighbour) 
+#                 queue.append(neighbour) 
+
+
+# if __name__ == '__main__':
+#     graph = {0: [1, 2], 1: [2], 2: []} 
+#     breadth_first_search(graph, 0)
+
+
+

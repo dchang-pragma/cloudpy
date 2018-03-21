@@ -1,6 +1,6 @@
 from configparser import ConfigParser
 from flask import Flask, render_template, json, request
-from flaskext.mysql import MySQL
+#from flaskext.mysql import MySQL
  
  
 def read_db_config(filename='config.ini', section='mysql'):
