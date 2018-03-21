@@ -24,115 +24,103 @@
 	"buffers":
 	[
 		{
-			"file": "google-notes.txt",
+			"file": "Google Code/map-bfs2.py",
 			"settings":
 			{
-				"buffer_size": 668,
+				"buffer_size": 3696,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pockets/data_structure/hash_table2.py",
+			"settings":
+			{
+				"buffer_size": 1872,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pockets/cheat_sheet/py_list_comprehensions.py",
+			"settings":
+			{
+				"buffer_size": 554,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pockets/data_structure/built_in_type.py",
+			"settings":
+			{
+				"buffer_size": 986,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pockets/practice/dp0307.py",
+			"settings":
+			{
+				"buffer_size": 1045,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pockets/practice/dp0306.py",
+			"settings":
+			{
+				"buffer_size": 447,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pockets/practice/dp0308_2.py",
+			"settings":
+			{
+				"buffer_size": 484,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "5 1-on-1 interview"
+				"name": "def add_one"
 			}
 		},
 		{
-			"file": "Google/data_structure/map01.py",
+			"file": "pockets/practice/dp0309.py",
 			"settings":
 			{
-				"buffer_size": 1675,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "list-comprehension.py",
-			"settings":
-			{
-				"buffer_size": 179,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pockets/datastructure4.py",
-			"settings":
-			{
-				"buffer_size": 638,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pockets/class_rabbit.py",
-			"settings":
-			{
-				"buffer_size": 2172,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sorting-merge.py",
-			"settings":
-			{
-				"buffer_size": 936,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pockets/var_pointer_mem.py",
-			"settings":
-			{
-				"buffer_size": 780,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sorting-quick.py",
-			"settings":
-			{
-				"buffer_size": 1174,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pockets/algorithm/dij_adjacency_list.py",
-			"settings":
-			{
-				"buffer_size": 6199,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pockets/algorithm/dij_adjacency_matrix.py",
-			"settings":
-			{
-				"buffer_size": 2577,
+				"buffer_size": 408,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "# A Python program for Dijkstra's shortest"
+				"name": "def all_subsets(given_array):"
 			}
 		},
 		{
-			"file": "pockets/nx_graph.py",
+			"file": "/Users/bunmaster/Desktop/aws_account",
 			"settings":
 			{
-				"buffer_size": 205,
+				"buffer_size": 60,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "import networkx as nx"
+				"name": "My daugther's AWS prime (household/teen) and her A"
 			}
 		},
 		{
-			"file": "pockets/data_structure/binary_tree.py",
+			"file": "pockets/practice/dp0310.py",
 			"settings":
 			{
-				"buffer_size": 715,
+				"buffer_size": 421,
 				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "# Python program to introduce Binary Tree"
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/bunmaster/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -261,16 +249,54 @@
 	"expanded_folders":
 	[
 		"/Users/bunmaster/Google Drive/0coding/cloudpy",
-		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/cheat_sheet",
-		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/data_structure"
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/data_structure",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/practice"
 	],
 	"file_history":
 	[
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/py-cpuinfo-3.3.0/import cpuinfo.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/py_nosql.py",
+		"/Users/bunmaster/Library/Application Support/Sublime Text 3/Packages/User/Python36.sublime-build",
+		"/Users/bunmaster/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/practice/dp0308.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/problem_solving/response_time.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/bfs_dfs_final.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/practice/dp0306.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/basic/list1.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/google-python-exercises/basic/list2.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/bfs_final.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/data_structure/binary_tree.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dijkstra_sp3.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dijkstra_sp2.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/bfs_2.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dfs_final.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dijkstra_sp3_1.py",
+		"/Users/bunmaster/Google Drive/0career/Facebook/fb_prep.txt",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/testing/py_unittest.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/sys_design_input.txt",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/testing/py_unittest2.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/testing/unnecessary_math.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/nx_graph.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dijkstra_sp.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dfs.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/practice/daily_practice0222.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/practice/daily_practice0221.py",
+		"/Users/bunmaster/Google Drive/0career/Google Files/google-notes.txt",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/data_structure/py_linked_list.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dij_adjacency_matrix.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dij_adjacency_list.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/sorting-quick.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/var_pointer_mem.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/sorting-merge.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/data_structure/py_graph.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/algo1.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/sys_max.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google Code/map-bfs2.py",
+		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/cheat_sheet/py_http.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/data_structure/graph_AL_bfs.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/data_structure/graph_adjacency_list.py",
-		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dij_adjacency_matrix.py",
 		"/Users/bunmaster/Downloads/tutorial.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/linked_list.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/pockets/algorithm/dfs-bfs.py",
@@ -333,8 +359,6 @@
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/wordladder.txt",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/map01.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/list-comprehension.py",
-		"/Users/bunmaster/Google Drive/0coding/cloudpy/sorting-quick.py",
-		"/Users/bunmaster/Google Drive/0coding/cloudpy/sorting-merge.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/map-word-ladder.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/data_structure/map01.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/bfs.py",
@@ -343,7 +367,6 @@
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/parse-tree.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/tree-traversal.py",
 		"/Users/bunmaster/Google Drive/0career/resume/resume-text",
-		"/Users/bunmaster/Library/Application Support/Sublime Text 3/Packages/User/Python36.sublime-build",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/Google/search.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/tutorial/class_rabbit.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/config.ini",
@@ -355,47 +378,12 @@
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/MoviesCreateTable.py",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/moviedata.json",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/MoviesDelete.py",
-		"/Users/bunmaster/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
 		"/Users/bunmaster/Google Drive/0coding/cloudpy/aws.ini",
 		"/Users/bunmaster/Google Drive/0career/security/credentials",
 		"/Users/bunmaster/g/0coding/cloudpy/kafka/consumer.py",
 		"/Users/bunmaster/g/sites/njfcs.org/njfcs_org/njfcs_org.crt",
 		"/Users/bunmaster/g/sites/njfcs.org/njfcs_org/njfcs_org.ca-bundle",
-		"/Users/bunmaster/amazon-kinesis-client-python/samples/sample.properties",
-		"/Users/bunmaster/g/0coding/cloudpy/kafka/producer.py",
-		"/Users/bunmaster/g/njfcs.org/njfcs.csr",
-		"/Users/bunmaster/g/0coding/cloudpy/kafka/settings.py",
-		"/Users/bunmaster/g/0coding/cloudpy/config.ini",
-		"/Users/bunmaster/g/0career/security/awslab.bash_profile",
-		"/Users/bunmaster/g/0career/security/aws-credentials.json",
-		"/Users/bunmaster/g/0coding/cloudpy/kafka/KafkaConsumer.py",
-		"/Users/bunmaster/g/0coding/cloudpy/kafka/producer3.py",
-		"/Users/bunmaster/g/0coding/cloudpy/ssl_tutorial.py",
-		"/Users/bunmaster/g/0coding/cloudpy/kafka/KafkaProducer.py",
-		"/Users/bunmaster/g/0coding/cloudpy/kafka/producer2.py",
-		"/Users/bunmaster/.ssh/cloud_kafka/ca_cert2.pem",
-		"/Users/bunmaster/.ssh/cloud_kafka/ca_cert.pem",
-		"/Users/bunmaster/g/0coding/cloudpy/kafka/settings2.py",
-		"/Users/bunmaster/g/0coding/cloudpy/kafka/from kafka import KafkaConsumer.py",
-		"/Users/bunmaster/g/0coding/cloudpy/settings.py",
-		"/Users/bunmaster/g/0coding/cloudkafka/env",
-		"/Users/bunmaster/g/0coding/cloudpy/producer2.py",
-		"/Users/bunmaster/g/0coding/cloudpy/consumer.py",
-		"/Users/bunmaster/g/0coding/cloudpy/producer-sasl.py",
-		"/Users/bunmaster/g/0coding/cloudpy/producer.py",
-		"/Users/bunmaster/g/0coding/cloudpy/py_nosql.py",
-		"/Users/bunmaster/g/0coding/cloudpy/py_rest_client.py",
-		"/Users/bunmaster/g/0coding/cloudpy/py_steamedbun_api.py",
-		"/Users/bunmaster/g/0coding/cloudpy/py_config.py",
-		"/Users/bunmaster/g/0coding/cloudpy/README.md",
-		"/Users/bunmaster/g/0coding/cloudpy/requirements.txt",
-		"/Users/bunmaster/g/0coding/cloudpy/py_rest.py",
-		"/Users/bunmaster/g/0coding/cloudpy/sql/steamedbun.sql",
-		"/Users/bunmaster/g/0coding/cloudpy/mysql-tutorial.py",
-		"/Users/bunmaster/Downloads/pypi-stat-1.3.2/pypi_get_stat.py",
-		"/Users/bunmaster/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
-		"/Users/bunmaster/g/0coding/cloudpy/py_web.py",
-		"/Users/bunmaster/g/0coding/cloudpy/py_aws.py"
+		"/Users/bunmaster/amazon-kinesis-client-python/samples/sample.properties"
 	],
 	"find":
 	{
@@ -413,6 +401,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sptset",
+			"sys.max",
+			"maxint",
+			"cost",
 			"next",
 			"maxint",
 			"print",
@@ -463,107 +455,16 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 10,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/bunmaster/Google Drive/0career/Google Files/google-notes.txt",
+					"file": "Google Code/map-bfs2.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6279,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4298,
-								4298
-							]
-						],
-						"settings":
-						{
-							"auto_name": "5 1-on-1 interview",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1429.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pockets/data_structure/py_linked_list.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2129,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1725,
-								1725
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Node:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 672.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pockets/practice/daily_practice0221.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 948,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								582,
-								582
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Node:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 6.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pockets/practice/daily_practice0222.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 43,
+						"buffer_size": 3696,
 						"regions":
 						{
 						},
@@ -571,7 +472,123 @@
 						[
 							[
 								0,
-								0
+								3696
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pockets/data_structure/hash_table2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								456,
+								456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pockets/cheat_sheet/py_list_comprehensions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 554,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								20
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pockets/data_structure/built_in_type.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								986,
+								986
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pockets/practice/dp0307.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1045,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								147
 							]
 						],
 						"settings":
@@ -593,201 +610,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "pockets/cheat_sheet/py_http.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1234,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								504,
-								504
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "pockets/algorithm/dfs.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 513,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								186,
-								186
-							]
-						],
-						"settings":
-						{
-							"auto_name": "def dfs(graph, start):",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 15,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "pockets/algorithm/algo1.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 607,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								254,
-								254
-							]
-						],
-						"settings":
-						{
-							"auto_name": "class Node:",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "pockets/algorithm/bfs.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 513,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								513,
-								513
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "pockets/data_structure/py_graph.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1310,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								691,
-								691
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "sorting-merge.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 936,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								610,
-								610
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
 					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
-					"file": "pockets/var_pointer_mem.py",
-					"semi_transient": false,
+					"buffer": 5,
+					"file": "pockets/practice/dp0306.py",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 780,
+						"buffer_size": 447,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								768,
-								768
+								0,
+								0
 							]
 						],
 						"settings":
@@ -802,154 +642,146 @@
 					"type": "text"
 				},
 				{
-					"buffer": 11,
-					"file": "sorting-quick.py",
+					"buffer": 6,
+					"file": "pockets/practice/dp0308_2.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1174,
+						"buffer_size": 484,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								344,
-								344
+								483,
+								447
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 79.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "pockets/algorithm/dij_adjacency_list.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6199,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5455,
-								5458
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2546.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "pockets/algorithm/dij_adjacency_matrix.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2577,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								324,
-								324
-							]
-						],
-						"settings":
-						{
-							"auto_name": "# A Python program for Dijkstra's shortest",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 521.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "pockets/nx_graph.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 205,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								205,
-								205
-							]
-						],
-						"settings":
-						{
-							"auto_name": "import networkx as nx",
+							"auto_name": "def add_one",
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 15,
-					"file": "pockets/data_structure/binary_tree.py",
+					"buffer": 7,
+					"file": "pockets/practice/dp0309.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 715,
+						"buffer_size": 408,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								715,
-								715
+								407,
+								407
 							]
 						],
 						"settings":
 						{
-							"auto_name": "# Python program to introduce Binary Tree",
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"auto_name": "def all_subsets(given_array):",
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/bunmaster/Desktop/aws_account",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"auto_name": "My daugther's AWS prime (household/teen) and her A",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "pockets/practice/dp0310.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								421,
+								421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/bunmaster/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -998,11 +830,11 @@
 	{
 		"height": 114.0
 	},
-	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
 	"project": "cloudpy.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":

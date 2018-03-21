@@ -1,3 +1,10 @@
+# initialize a list
+result = [None] * 5
+result[1] = 5
+print(result)
+
+
+
 nums = [1, 2, 3, 4]
 
 squares = [ n * n for n in nums ]
